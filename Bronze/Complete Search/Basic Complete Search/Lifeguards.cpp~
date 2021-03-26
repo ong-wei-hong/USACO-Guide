@@ -1,0 +1,32 @@
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+const int mxN=100;
+int N, start[mxN], end[mxN], time[1001];
+
+int main(){
+  freopen("lifeguards.in", "r", stdin);
+  freopen("lifeguards.out", "w", stdout);
+  cin>>N;
+  for(int i=0; i<N; ++i){
+    cin>>start[i]>>end[i];
+    ++time[start[i]];
+    --time[end[i]];
+  }
+  int ans=-1;
+  for(int i=0; i<N; ++i){
+    --time[start[i]];
+    ++time[end[i]];
+    int curr=0, curr_guards=0;
+    for(int j=0; j<=1000; ++j){
+      curr_guards+=time[j];
+      if(curr_guards)
+	++curr;
+    }
+    ans=max(ans, curr);
+    ++time[start[i]];
+    --time[end[i]];
+  }
+  cout<<ans;
+}
