@@ -55,11 +55,11 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 </ul>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets">Sorting & Sets</li>
 <ul>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20&%20Sets/Introduction%20to%20Sorting">Introduction to Sorting</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sorting">Introduction to Sorting</a></li>
 <ul>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Distinct Numbers.cpp">Distinct Numbers</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Kayaking.cpp">Kayaking</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Why_Did_the_Cow_Cross_the_Road_III.cpp">Why Did the Cow Cross the Road III</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sorting/Distinct Numbers.cpp">Distinct Numbers</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sorting/Kayaking.cpp">Kayaking</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sorting/Why_Did_the_Cow_Cross_the_Road_III.cpp">Why Did the Cow Cross the Road III</a></li>
 </ul>
 </ul>
 </ul>
