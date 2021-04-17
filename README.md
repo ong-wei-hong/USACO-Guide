@@ -49,7 +49,19 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Complete%20Search/Complete%20Search%20with%20Recursion">Complete Search with Recursion</a></li>
 <ul>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Complete%20Search/Complete%20Search%20with%20Recursion/Livestock_Lineup.cpp">Livestock Lineup</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Complete%20Search/Complete%20Search%20with%20Recursion/Back_and_Forth.cpp">Back & Forth</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Complete%20Search/Complete%20Search%20with%20Recursion/Wormholes.cpp">Wormholes</a></li>
+</ul>
+</ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20&%20Sets">Sorting & Sets</li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20&%20Sets/Introduction%20to%20Sorting">Introduction to Sorting</a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20&%20Sets/Distinct Numbers.cpp">Distinct Numbers</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20&%20Sets/Kayaking.cpp">Kayaking</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20&%20Sets/Why_Did_the_Cow_Cross_the_Road_III.cpp">Why Did the Cow Cross the Road III</a></li>
 </ul>
 </ul>
 </ul>
 </ul>
+
