@@ -67,7 +67,7 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Maps/Sum%20of%20Two%20Values.cpp">Sum of Two Values</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Maps/Where_Am_I.cpp">Where Am I?</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Maps/Team_Tic_Tac_Toe.cpp">Team Tic Tac Toe</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Maps/Year_of_the_Cows.cpp">Year of the Cow</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Maps/Year_of_the_Cow.cpp">Year of the Cow</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Maps/Don't_Be_Last.cpp">Not Last</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Maps/Cities_and_States.cpp">Cities & States</a></li>
 </ul>
