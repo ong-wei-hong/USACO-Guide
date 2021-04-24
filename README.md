@@ -60,6 +60,16 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sorting/Distinct Numbers.cpp">Distinct Numbers</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sorting/Kayaking.cpp">Kayaking</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sorting/Why_Did_the_Cow_Cross_the_Road_III.cpp">Why Did the Cow Cross the Road III</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sorting/Angry_Cows.cpp">Angry Cows</a></li>
+</ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Maps">Introduction to Sets & Maps</a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Map/Sum%20of%20Two%20Values.cpp">Sum of Two Values</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Map/Where_Am_I.cpp">Where Am I?</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Map/Team_Tic_Tac_Toe.cpp">Team Tic Tac Toe</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Map/Year_of_the_Cows.cpp">Year of the Cow</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Map/Don't_Be_Last.cpp">Not Last</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Introduction%20to%20Sets%20%26%20Map/Cities_and_States.cpp">Cities & States</a></li>
 </ul>
 </ul>
 </ul>
