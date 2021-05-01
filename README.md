@@ -75,14 +75,14 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 </ul>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional">Additional</a></li>
 <ul>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Additional/Ad%20Hoc%20Problems">Ad Hoc Problems</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems">Ad Hoc Problems</a></li>
 <ul>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Additional/Ad%20Hoc%20Problems/Sleepy_Cow_Herding.cpp">Sleepy Cow Herding</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Additional/Ad%20Hoc%20Problems/Sleepy_Cow_Sorting.cpp">Sleepy Cow Sorting</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Additional/Ad%20Hoc%20Problems/Taming_the_Herd.cpp">Taming the Herd</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Additional/Ad%20Hoc%20Problems/Modern_Art.cpp">Modern Art</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Additional/Ad%20Hoc%20Problems/Hoofball.cpp">Hoofball</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Sorting%20%26%20Sets/Additional/Ad%20Hoc%20Problems/Spaced_Out.cpp">Spaced Out</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems/Sleepy_Cow_Herding.cpp">Sleepy Cow Herding</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems/Sleepy_Cow_Sorting.cpp">Sleepy Cow Sorting</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems/Taming_the_Herd.cpp">Taming the Herd</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems/Modern_Art.cpp">Modern Art</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems/Hoofball.cpp">Hoofball</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems/Spaced_Out.cpp">Spaced Out</a></li>
 </ul>
 </ul>
 </ul>
