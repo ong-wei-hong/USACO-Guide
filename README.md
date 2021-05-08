@@ -84,6 +84,19 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems/Hoofball.cpp">Hoofball</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Ad%20Hoc%20Problems/Spaced_Out.cpp">Spaced Out</a></li>
 </ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Greedy%20Algorithms">Introduction to Greedy Algorithms</a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Greedy%20Algorithms/Cow_Tipping.cpp">Cow Tipping</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Greedy%20Algorithms/Even_More_Odd_Photos.cpp">Even More Odd Photos</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Greedy%20Algorithms/Out_of_Place.cpp">Out of Place</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Greedy%20Algorithms/Race.cpp">Race</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Greedy%20Algorithms/Rest_Stops.cpp">Rest Stops</a></li>
+</ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs">Introduction to Graphs</a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/Grass_Planting.cpp">Grass Planting</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/The_Great_Revegetation">The Great Revegetation</a></li>
+</ul>
 </ul>
 </ul>
 </ul>
