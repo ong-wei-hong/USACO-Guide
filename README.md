@@ -95,7 +95,7 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs">Introduction to Graphs</a></li>
 <ul>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/Grass_Planting.cpp">Grass Planting</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/The_Great_Revegetation">The Great Revegetation</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/The_Great_Revegetation.cpp">The Great Revegetation</a></li>
 </ul>
 </ul>
 </ul>
