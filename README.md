@@ -96,6 +96,26 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 <ul>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/Grass_Planting.cpp">Grass Planting</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/The_Great_Revegetation.cpp">The Great Revegetation</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/Milk_Factory.cpp">Milk Factory</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/Livestock_Lineup.cpp">Livestock Lineup</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/Swapity_Swap.cpp">Swapity Swap</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/Cow_Evolution.cpp">Cow Evolution</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Introduction%20to%20Graphs/Family_Tree.cpp">Family Tree</a></li>
+</ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Additional%20Practice%20for%20USACO%20Bronze">Additional Practice for USACO Bronze</a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Bronze/Additional/Additional%20Practice%20for%20USACO%20Bronze/Dima%20and%20Containers.cpp">Dima and Containers</a></li>
+</ul>
+</ul>
+</ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver"><h3>Silver</h3></a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums">Prefix Sums</a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums">Introduction to Prefix Sums</a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Find%20Pivot%20Index.cpp">Find Pivot Index</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Breed_Counting.cpp">Breed Counting</a></li>
 </ul>
 </ul>
 </ul>
