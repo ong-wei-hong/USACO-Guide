@@ -116,6 +116,13 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 <ul>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Find%20Pivot%20Index.cpp">Find Pivot Index</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Breed_Counting.cpp">Breed Counting</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Subsequences_Summing_to_Sevens.cpp">Subsequences Summing to Sevens</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Hoof_Paper_Scissors.cpp">Hoof Paper Scissors</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Subarray%20Sums%20II">Subarray Sums II</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Subarray%20Divisibility.cpp">Subarray Divisibility</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Why-Did-the-Cow-Cross-the-Road-II.cpp">Why Did the Cow Cross the Road II</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Range-Xor-Queries.cpp">Range Xor Queries</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Haybale-Stacking.cpp">Haybale Stacking</a></li>
 </ul>
 </ul>
 </ul>
