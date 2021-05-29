@@ -118,11 +118,21 @@ Welcome to my solutions for <a href="https://usaco.guide">USACO Guide</a>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Breed_Counting.cpp">Breed Counting</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Subsequences_Summing_to_Sevens.cpp">Subsequences Summing to Sevens</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Hoof_Paper_Scissors.cpp">Hoof Paper Scissors</a></li>
-<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Subarray%20Sums%20II.cpp">Subarray Sums II</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Subarray%20Sums%20II.">Subarray Sums II</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Subarray%20Divisibility.cpp">Subarray Divisibility</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Why-Did-the-Cow-Cross-the-Road-II.cpp">Why Did the Cow Cross the Road II</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Range-Xor-Queries.cpp">Range Xor Queries</a></li>
 <li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Haybale-Stacking.cpp">Haybale Stacking</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Good-Subarrays.cpp">Good Subarrays</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/GCD-on-Blackboard.cpp">GCD on Blackboard</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Candies.cpp">Candies (Test Set 1)</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Multiple-of-2019.cpp">Multiple of 2019</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/Introduction%20to%20Prefix%20Sums/Fort-Moo.cpp">Fort Moo</a></li>
+</ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/More-on-Prefix-Sums">More on Prefix Sums</a></li>
+<ul>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/More-on-Prefix-Sums/Painting-the-Barn.cpp">Painting the Barn</a></li>
+<li><a href="https://github.com/ong-wei-hong/USACO-Guide/tree/main/Silver/Prefix%20Sums/More-on-Prefix-Sums/Matrix-Block-Sum.cpp">Matrix Block Sum</a></li>
 </ul>
 </ul>
 </ul>
